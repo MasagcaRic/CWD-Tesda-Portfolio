@@ -1,0 +1,21 @@
+.nav-bar {
+    color: red;
+}
+
+.introduction {
+    background-color: rgb(7, 152, 255);
+    height: auto;
+}
+
+.parallax-container {
+    height: 440px;
+}
+
+#mapua.divider {
+    background-color: rgb(7, 152, 255);
+    height: 15px;
+}
+
+#mapua.header {
+    background-color: rgb(50, 194, 243);
+}
